@@ -1,0 +1,515 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"init",
+				"initPinChangeInterrupt"
+			],
+			[
+				"POR",
+				"PORTB"
+			],
+			[
+				"ADCS",
+				"ADCSRA"
+			],
+			[
+				"uint",
+				"uint16_t"
+			],
+			[
+				"LED",
+				"LED_PORT"
+			],
+			[
+				"AD",
+				"ADCSRA"
+			],
+			[
+				"transmit",
+				"transmitByte"
+			],
+			[
+				"ma",
+				"maxLength"
+			],
+			[
+				"trans",
+				"transmitByte"
+			],
+			[
+				"recei",
+				"receiveByte"
+			],
+			[
+				"cons",
+				"constrainedDistance"
+			],
+			[
+				"analo",
+				"analogDistance"
+			],
+			[
+				"analog",
+				"analogDistance"
+			],
+			[
+				"digita",
+				"digitalWrite	Arduino digitalWrite"
+			],
+			[
+				"LE",
+				"ledPin"
+			],
+			[
+				"digital",
+				"digitalWrite	Arduino digitalWrite"
+			],
+			[
+				"min",
+				"minimumRange"
+			],
+			[
+				"digit",
+				"digitalWrite	Arduino digitalWrite"
+			],
+			[
+				"delay",
+				"delayMicroseconds	Arduino delayMicroseconds()"
+			],
+			[
+				"digi",
+				"digitalWrite	Arduino digitalWrite"
+			],
+			[
+				"dela",
+				"delayMicroseconds	Arduino delayMicroseconds()"
+			],
+			[
+				"fae",
+				"facebookAuth"
+			],
+			[
+				"fa",
+				"facebookAuth"
+			],
+			[
+				"config",
+				"configAuth"
+			],
+			[
+				"F",
+				"FacebookStrategy"
+			],
+			[
+				"clie",
+				"clientSecret"
+			],
+			[
+				"client",
+				"clientID"
+			],
+			[
+				"call",
+				"callbackURL"
+			],
+			[
+				"new",
+				"newUser"
+			],
+			[
+				"find",
+				"findOne"
+			],
+			[
+				"user",
+				"userSchema"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"co",
+				"cookieParser"
+			],
+			[
+				"confi",
+				"configDB"
+			],
+			[
+				"js",
+				"json"
+			],
+			[
+				"bo",
+				"bodyParser"
+			],
+			[
+				"met",
+				"methodOverride"
+			],
+			[
+				"person",
+				"person_id"
+			],
+			[
+				"car",
+				"car"
+			],
+			[
+				"Person",
+				"PersonSchema"
+			],
+			[
+				"name",
+				"nameFocusOut"
+			],
+			[
+				"out",
+				"outgoingMessageKeyUp"
+			],
+			[
+				"ou",
+				"outgoingMessage"
+			],
+			[
+				"outgo",
+				"outgoingMessageValue"
+			],
+			[
+				"soc",
+				"socket"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"body",
+				"bodyParser"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "includes/USART.h",
+			"settings":
+			{
+				"buffer_size": 2934,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 54.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"aer",
+				"Aery32: Create New Project"
+			],
+			[
+				"avr",
+				"AVR: Create/Update Project"
+			],
+			[
+				"aery32",
+				"Aery32: Create New Project"
+			],
+			[
+				"a",
+				"Aery32: Create New Project"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Pac",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/My Documents/AVR/MakeAVR/lightSensor/lightSensor.c",
+		"/media/jan/directory/My Documents/AVR/MakeAVR/slowScope/serialScope.py",
+		"/media/jan/directory/My Documents/AVR/MakeAVR/nightLight/Makefile",
+		"/media/jan/directory/My Documents/AVR/MakeAVR/terminal.glue",
+		"/media/jan/directory/My Documents/AVR/MakeAVR/lightSensor/terminal.glue",
+		"/media/jan/directory/My Documents/AVR/MakeAVR/makeAVR.sublime-project",
+		"/D/My Documents/AVR/MakeAVR/AVR-Programming/AVR-Programming-Library/pinDefines.h",
+		"/D/My Documents/AVR/MakeAVR/interrupts/capSense.c",
+		"/D/My Documents/AVR/MakeAVR/interrupts/Makefile",
+		"/D/My Documents/AVR/MakeAVR/nightLight/nightLight.c",
+		"/D/My Documents/AVR/MakeAVR/includes/USART.h",
+		"/D/My Documents/AVR/MakeAVR/serialLoopback/serialLoopback.c",
+		"/D/My Documents/AVR/MakeAVR/includes/USART.c",
+		"/D/My Documents/AVR/MakeAVR/interrupts/helloInterrupt.c",
+		"/D/My Documents/AVR/MakeAVR/slowScope/slowScope.c",
+		"/D/My Documents/AVR/MakeAVR/nightLight/Makefile",
+		"/C/Users/alkemista/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/alkemista/AppData/Roaming/Sublime Text 2/Packages/Color Scheme - Default/Monokai.tmTheme",
+		"/D/My Documents/AVR/MakeAVR/slowScope/Makefile",
+		"/D/My Documents/AVR/MakeAVR/lightSensor/Makefile",
+		"/D/My Documents/AVR/MakeAVR/AVR-Programming/Chapter07_Analog-to-Digital-Conversion-I/slowScope/slowScope.c",
+		"/D/My Documents/AVR/MakeAVR/AVR-Programming/Chapter07_Analog-to-Digital-Conversion-I/slowScope/serialScope.py",
+		"/D/My Documents/AVR/MakeAVR/AVR-Programming/Chapter07_Analog-to-Digital-Conversion-I/lightSensor/lightSensor.c",
+		"/C/Users/alkemista/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/D/My Documents/My Music/Brian Eno - Ambient 4 On Land Electronic [FLAC-Lossless]/INFO.nfo",
+		"/D/My Documents/AVR/MakeAVR/serialLoopback/Makefile",
+		"/D/My Documents/AVR/MakeAVR/AVR-Programming/Chapter05_Serial-IO/serialLoopback/serialLoopback.c",
+		"/D/My Documents/AVR/MakeAVR/includes/USART.h.h",
+		"/D/My Documents/AVR/MakeAVR/includes/uart.h",
+		"/D/My Documents/node/Development/scotch/node-auth-local/views/login.ejs",
+		"/D/My Documents/node/Development/scotch/node-auth-local/views/index.ejs",
+		"/D/My Documents/node/Development/scotch/node-auth-local/views/profile.ejs",
+		"/D/My Documents/node/Development/scotch/node-auth-local/views/signup.ejs",
+		"/D/My Documents/node/Development/scotch/node-auth-local/views/yo.ejs",
+		"/D/My Documents/Arduino/stinoSample/stinoSample.ino",
+		"/D/cygwin/usr/src/cygwinccompiler.patch",
+		"/C/Users/alkemista/AppData/Roaming/Sublime Text 2/Packages/User/Arduino.sublime-settings",
+		"/C/Users/alkemista/AppData/Roaming/Sublime Text 2/Packages/Arduino/Arduino.sublime-settings",
+		"/C/EAGLE-7.1.0/bin/eagle.def",
+		"/C/EAGLE-7.1.0/ulp/fablab-mill-n-drill-modified.ulp",
+		"/D/My Documents/node/Development/scotch/node-auth-local/config/database.js",
+		"/D/My Documents/node/Development/scotch/todo/server.js",
+		"/D/My Documents/node/Development/scotch/todo-org-struct/public/index.html",
+		"/D/My Documents/node/Development/scotch/todo-org-struct/config/database.js",
+		"/D/My Documents/node/Development/scotch/todo-org-struct/server.js",
+		"/D/My Documents/node/Development/scotch/todo-org-struct/app/models/routes.js",
+		"/D/My Documents/node/Development/scotch/todo-org-struct/app/models/todo.js",
+		"/D/My Documents/node/Development/scotch/todo/public/index.html",
+		"/D/My Documents/node/Development/scotch/todo/public/core.js",
+		"/D/My Documents/node/Development/rest-api/app/models/person.js",
+		"/D/My Documents/node/Development/rest-api/server.js",
+		"/D/My Documents/node/Ch_25/app.js",
+		"/D/My Documents/node/Development/wmora/server.js",
+		"/D/My Documents/node/Development/wmora/public/css/style.css",
+		"/D/My Documents/node/Development/wmora/views/index.jade",
+		"/D/My Documents/node/Development/wmora/public/js/index.js",
+		"/C/Users/alkemista/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/alkemista/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Site/blog/config/routes.rb",
+		"/C/Site/blog/app/views/home/index.html.erb",
+		"/D/My Documents/Programming/C/hello.c"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"font",
+			"comment",
+			"slow",
+			"detec_slow",
+			"loop_until_bit_is_set",
+			"168",
+			" (",
+			"con",
+			"constrain",
+			"constrain(analogDistance,0, 255)",
+			"analogDistance",
+			"0",
+			"();",
+			"distance",
+			"0",
+			"redLed",
+			"#define",
+			"define",
+			"ledPin",
+			"’",
+			"braces",
+			"car",
+			"Car",
+			"car",
+			"cad",
+			"Car",
+			"person",
+			"post",
+			"people",
+			"peopl",
+			"people",
+			"outgoing"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"mouse",
+			"Mouse"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "includes/USART.h",
+					"settings":
+					{
+						"buffer_size": 2934,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2931,
+								2931
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 969.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.stinoSample":
+	{
+		"height": 112.0
+	},
+	"output.stino_log":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 170.0,
+	"status_bar_visible": true
+}
