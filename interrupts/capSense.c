@@ -18,7 +18,7 @@ volatile uint16_t chargeCycleCount;
 // ---- Functions ---- //
 void initPinChangeInterrupt(void){
 	PCICR |= (1 << PCIE1);		// enable Pin-change interrupts 1 (bank C)
-	PCMSK |= (1 << PC1);
+	PCMSK1 |= (1 << PC1);
 }
 
 ISR(PCINT1_vect){
@@ -44,7 +44,11 @@ int main(void){
 
 	// --- Event loop --- //
 	while(1){
-		
+		chargeCycleCount = 0;
+		DDRC |= (1 << PC3);
+		sei();
+		_delay_ms(SENSE_TIME);
+		cli();
 	}
 
 }
